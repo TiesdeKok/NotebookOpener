@@ -15,7 +15,7 @@ Utility (GUI) to open and manage Jupyter (IPython) notebooks using different Pyt
 Use the standalone executable:
 > 1. Download notebook_opener.zip from this GitHub depository.   [**[Download link]**](https://github.com/TiesdeKok/NotebookOpener/raw/master/notebook_opener.zip)
 > 2. Extract the *notebook_opener* folder in the .zip file to a folder of your choice.
-> 3. Run the Notebook Opener using *notebook_opener.exe*
+> 3. Run the Notebook Opener using *notebook_opener.exe*  
 > [Tip] Create a shortcut to this executable or drag the .exe onto your taskbar for easy access.
 
 Run it yourself using Python 3:
@@ -49,6 +49,6 @@ It is possible to Add/Remove working directories (very convenient if you have mu
 > * Select *Default Python* as an environment to start the default Python environment (no .bat file needed)
 > * Deselect *Open notebook* to only start a command prompt with the Python environment.
 > * Invalid .bat files and missing IPython installations trigger a warning to be displayed in the program. 
-> * Environments and directories are saved to *notebook_opener/config.ini* in the *appdata* folder. 
+> * Environments and directories are saved to */notebook_opener/config.ini* in the *Appdata/Roaming* folder. 
 
 Have additional feature requests / suggestions? Feel free to open an issue! 
