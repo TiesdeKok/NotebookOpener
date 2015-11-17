@@ -2,7 +2,7 @@
 
 Utility (GUI) to open and manage Jupyter (IPython) notebooks using different Python environments and working directories. 
 
-![Notebook Opener](https://raw.githubusercontent.com/TiesdeKok/NotebookOpener/master/example.png)
+![Notebook Opener](https://raw.githubusercontent.com/TiesdeKok/NotebookOpener/master/Images/example.png)
 
 **Author:**   Ties de Kok *(t.c.j.dekok@tilburguniversity.edu)*  
 **Twitter:** [@TiesdeKok](https://twitter.com/TiesdeKok/)  
@@ -36,7 +36,7 @@ These shortcuts work by starting a command prompt and running a batch file to se
 			- C:\Users\ **USERNAME** \AppData\Local\Enthought\Canopy\User\Scripts\ **activate.bat**
 2. Click the *Add* button under the *Python environments* box.
 
-![Notebook Opener](https://raw.githubusercontent.com/TiesdeKok/NotebookOpener/master/example_1.png)
+![Notebook Opener](https://raw.githubusercontent.com/TiesdeKok/NotebookOpener/master/Images/example_1.png)
 
 #### **Save a working directory**
 It is possible to Add/Remove working directories (very convenient if you have multiple projects at the same time!).
