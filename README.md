@@ -29,9 +29,9 @@ These shortcuts work by starting a command prompt and running a batch file to se
 1. Find or create the batch file that specifies your Python environment.
 	* Default directories for Anaconda and Canopy are:
 		- Anaconda (Python 2.7):
-			- C:\Users\ **USERNAME** \Anaconda\Scripts\ **anaconda.bat**
+			- C:\Users\ **USERNAME** \Anaconda\Scripts\ **anaconda.bat** or **activate.bat**  
 		- Anaconda (Python 3.x):
-			-   C:\Users\ **USERNAME** \Anaconda3\Scripts\ **anaconda.bat**
+			-   C:\Users\ **USERNAME** \Anaconda3\Scripts\ **anaconda.bat** or **activate.bat**  
 		- Canopy
 			- C:\Users\ **USERNAME** \AppData\Local\Enthought\Canopy\User\Scripts\ **activate.bat**
 2. Click the *Add* button under the *Python environments* box.
