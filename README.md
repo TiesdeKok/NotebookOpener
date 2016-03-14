@@ -52,3 +52,11 @@ It is possible to Add/Remove working directories (very convenient if you have mu
 > * Environments and directories are saved to */notebook_opener/config.ini* in the *Appdata/Roaming* folder. 
 
 Have additional feature requests / suggestions? Feel free to open an issue! 
+
+####**Fix (or add) a missing `activate.bat`**
+It might happen that you have Python environments without an **activate.bat**, this can be solved using the following steps:
+
+1. Download **activate.bat** from the `conda-env` repository:   [**[Direct link]**](https://github.com/conda/conda-env/blob/develop/bin/activate.bat)
+2.  Paste it into the `scripts` folder of the environment that you want to add to the NotebookOpener.
+
+*Courtesy of user `gaspers1`!*
